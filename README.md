@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi, there is Junlong Tong's github page. 👋
 
+I’m Junlong Tong, a Ph.D. candidate in Computer Science at Shanghai Jiao Tong University and Eastern Institute of Technology (supervised by Dr. [Xiaoyu Shen](https://faculty.eitech.edu.cn/cist/sxy/main.htm)).
+
+
+- 🔭 My research focuses on **multimodal foundation models for dynamic real-world environments**, with the goal of enabling models to perceive, reason, and interact continuously and proactively in real time. In particular, I focus on two complementary directions: *Streaming LLMs/MLLMs* and *Efficient LLMs/MLLMs*.
+
+- 🔗 Personal Home Page: [https://jl-tong.github.io](https://jl-tong.github.io)
+
+- 💡 Seeking Research Internship Opportunities & Collaborations**:  
+  I am actively seeking research internship opportunities in LLMs/MLLMs and am always open to academic collaborations. Feel free to reach out via [jl-tong@sjtu.edu.cn](mailto:jl-tong@sjtu.edu.cn)!
 <!--
 **JL-tong/JL-tong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
